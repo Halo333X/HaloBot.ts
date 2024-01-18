@@ -52,3 +52,10 @@ To use the AI (GPT) you'll need to modify this file with your account:
 
 Try it!!!
 Also you can use it in groups and private chats.
+
+
+Start with:
+
+```
+ts-node index.ts
+```
