@@ -40,7 +40,8 @@ You have so many things like ChatGPT, make stickers, download music...
 
 # Music
 
-![image](https://github.com/Halo333X/HaloBot.ts/assets/124174275/85e62eca-f670-42ec-b505-33c40336e527)
+![image](https://github.com/Halo333X/HaloBot.ts/assets/124174275/13cfe06b-71d5-40dd-a8d5-038f2237d870)
+
 
 
 Try it!!!
