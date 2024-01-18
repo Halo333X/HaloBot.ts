@@ -1,5 +1,5 @@
 import { Client, Message } from "whatsapp-web.js";
-import "../huggingChatAccount";
+import { account } from "../huggingChatAccount";
 
 export async function gpt(msg: Message, client: Client) {
     const EMAIL = account[0];
