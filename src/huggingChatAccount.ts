@@ -1,4 +1,4 @@
-const account: string[] = [
+export const account: string[] = [
     "EMAIL", // Put here your email of huggingface.co
     "PASSWORD" // And here the password
 ]
