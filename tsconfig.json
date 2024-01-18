@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",  /* Directorio de salida para los archivos compilados */
+    "rootDir": "./src", /* Directorio raíz que contiene tus archivos fuente */
+    "strictNullChecks": true,
+    "noImplicitAny": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
