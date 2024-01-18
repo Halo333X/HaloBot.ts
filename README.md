@@ -24,10 +24,16 @@ To use it, just use this command:
 With this command you can see all the commands, also the bot get the deleted messages and he send again the messages.
 
 
+
 ![image](https://github.com/Halo333X/HaloBot.ts/assets/124174275/0f218175-011a-4e2c-bdac-99a77312df08)
 
-
 You have so many things like ChatGPT, make stickers, download music...
+
+To use the AI (GPT) you'll need to modify this file with your account:
+![image](https://github.com/Halo333X/HaloBot.ts/assets/124174275/9813c020-51cf-4dd6-a1f2-53f5ac0e5edd)
+
+
+<h1 color="red">Things you can do.</h1>
 
 # GPT
 
