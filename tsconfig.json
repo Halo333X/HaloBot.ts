@@ -6,8 +6,8 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "./dist",  /* Directorio de salida para los archivos compilados */
-    "rootDir": "./src", /* Directorio raíz que contiene tus archivos fuente */
+    "outDir": "./dist",
+    "rootDir": "./src",
     "strictNullChecks": true,
     "noImplicitAny": true
   },
@@ -18,3 +18,5 @@
     "node_modules"
   ]
 }
+
+// By Halo333
